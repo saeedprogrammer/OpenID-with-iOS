@@ -1,0 +1,6 @@
+framework module Pods_IdentityAppDemo {
+  umbrella header "Pods-IdentityAppDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

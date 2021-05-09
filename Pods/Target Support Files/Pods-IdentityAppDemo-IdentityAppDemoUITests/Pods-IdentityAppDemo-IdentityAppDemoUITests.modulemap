@@ -1,0 +1,6 @@
+framework module Pods_IdentityAppDemo_IdentityAppDemoUITests {
+  umbrella header "Pods-IdentityAppDemo-IdentityAppDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
